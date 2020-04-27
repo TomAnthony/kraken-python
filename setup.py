@@ -9,11 +9,11 @@ except ImportError:
     from distutils.core import setup
 
 setup (
-    name = 'krakenio',
-    version = '0.1.0',
+    name = 'krakenio3',
+    version = '0.1.1',
     description = 'Kraken.io API Client',
-    long_description = 'With this official Python client you can plug into the power and speed of Kraken.io Image Optimizer.',
-    url = 'https://github.com/kraken-io/kraken-python',
+    long_description = 'Python 3 client for Kraken.io.',
+    url = 'https://github.com/TomAnthony/kraken-python',
     author = 'Nekkra UG',
     author_email = 'support@kraken.io',
     license = 'MIT',
@@ -32,8 +32,6 @@ setup (
         'Intended Audience :: Developers',
         'Natural Language :: English',
         'License :: OSI Approved :: MIT License',
-        'Programming Language :: Python :: 2.6',
-        'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.2',
         'Programming Language :: Python :: 3.3',

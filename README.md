@@ -1,5 +1,7 @@
-Official Kraken.io library for Python
+Kraken.io library for Python 3
 ===========
+
+This is forked from the [Official library](https://github.com/kraken-io/kraken-python), which still does not support Python 3 and seems abandoned.
 
 With this Python Client you can plug into the power and speed of [Kraken.io](http://kraken.io/) Image Optimizer.
 
